@@ -1,6 +1,6 @@
 # WATS 3020 Roster Project
 
-In this project you will add Class objects to fill in the functionality of a
+In this project you will add [Class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) objects to fill in the functionality of a
 simple course roster. This will require you to model objects for a `Person`,
 `Student`, and `Teacher` in addition to providing specific methods so the roster
 can function.
