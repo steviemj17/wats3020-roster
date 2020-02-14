@@ -54,6 +54,7 @@ class Course {
         let email = prompt("Enter teacher email:", "johnd@seattleu.edu");
         let honorific = prompt("Enter honorific:", "Prof.");
         this.teacher = new Teacher(name, email, honorific);
+        updateRoster(this); 
     }
 
     markAttendance(username, status = "present") {
